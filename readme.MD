@@ -1,6 +1,6 @@
 # YouTube Chatter 🎥💬
 
-![YouTube Chatter Banner](banner.png)
+![YouTube Chatter Banner](@banner.png)
 
 ## 🚀 Welcome to YouTube Chatter!
 
@@ -12,6 +12,8 @@ YouTube Chatter is a cool, hacker-friendly app that lets you chat with your favo
 - 🗣️ Transcribes the audio to text
 - 💬 Allows you to chat about the video content using AI
 
+![Example 0](@example_0.png)
+
 ## 🛠️ Features
 
 - 🔗 Input any YouTube URL
@@ -20,6 +22,8 @@ YouTube Chatter is a cool, hacker-friendly app that lets you chat with your favo
 - 💾 Save transcriptions for future use
 - 🤖 Chat with AI about the video content
 - 🧠 Multiple AI models supported (Groq, OpenAI, Anthropic)
+
+![Example 1](@example_1.png)
 
 ## 🚀 Getting Started
 
