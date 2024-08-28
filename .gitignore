@@ -6,6 +6,6 @@
 
 # And not this file
 !.gitignore
-
+!readme.MD
 # Virtual Environment
 venv/
