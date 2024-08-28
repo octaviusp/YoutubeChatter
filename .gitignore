@@ -11,3 +11,4 @@
 !*.png
 # Virtual Environment
 venv/
+!requirements.txt
