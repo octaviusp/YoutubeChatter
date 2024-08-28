@@ -7,5 +7,7 @@
 # And not this file
 !.gitignore
 !readme.MD
+!assets
+!*.png
 # Virtual Environment
 venv/
